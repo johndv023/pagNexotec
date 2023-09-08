@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+main > p{
+    font: normal bold 8em arial;
+}
